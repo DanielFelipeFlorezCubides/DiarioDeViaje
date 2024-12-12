@@ -14,3 +14,10 @@ Wat Phra Kaew: El templo donde se encuentra el famoso Buda de jade verde y oro
 
 ## Foto
 ![](https://img.static-kl.com/images/media/8173BB23-9039-4BE8-9F7280FC4900F047?w=960)
+
+## Información sobre Bangkok
+Historia: Fue fundada en 1767 por el rey Rama I, quien construyó un palacio en la otra orilla del río Chao Phraya para huir en caso de una invasión birmana. 
+Ubicación: Se encuentra a orillas del río Chao Phraya, lo que le dio el nombre de "la Venecia del Este" o "la Venecia de Oriente". 
+Atractivos: Cuenta con templos históricos, palacios, canales, mercados, rascacielos, centros comerciales y una animada vida nocturna. 
+Clima: La mejor época para visitarla es de noviembre a abril, cuando no es época de lluvias y el calor no es tan intenso. 
+Actividades: Se puede ir en tuk-tuk, navegar por el río Chao Phraya, perderse por las calles de Pat Pong, hacerse un masaje tailandés, subir al mirador del piso 77 del Baiyoke Sky Hotel.
