@@ -13,7 +13,7 @@ Wat Arun: El templo del amanecer, conocido por su pagoda de porcelana china
 Wat Phra Kaew: El templo donde se encuentra el famoso Buda de jade verde y oro 
 
 ## Foto
-![](https://img.static-kl.com/images/media/8173BB23-9039-4BE8-9F7280FC4900F047?w=960)
+![](https://cdn.pixabay.com/photo/2021/01/16/13/06/bangkok-5922077_960_720.jpg)
 
 ## Información sobre Bangkok
 Historia: Fue fundada en 1767 por el rey Rama I, quien construyó un palacio en la otra orilla del río Chao Phraya para huir en caso de una invasión birmana. 
