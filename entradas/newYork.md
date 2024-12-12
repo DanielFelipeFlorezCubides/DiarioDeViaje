@@ -8,3 +8,11 @@ Algunos lugares imprescindibles son la Estatua de la Libertad, el Empire State B
 
 ## Foto
 ![](https://viajesnuevayork.com/wp-content/uploads/2023/05/entradas-estatua-de-la-libertad-nueva-york.webp)
+
+## Información sobre New York
+Distritos: Está compuesta por cinco distritos: Manhattan, Brooklyn, Queens, Bronx y Staten Island. 
+Historia: Su historia se remonta a la ocupación de las poblaciones amerindias, y los primeros colonos llegaron a lo que hoy es Manhattan en 1624. 
+Economía: Es el centro financiero y comercial de Estados Unidos, y un centro global de la televisión, la música y los periódicos. 
+Cultura: Es conocida por sus teatros de Broadway, donde se presentan musicales a gran escala. 
+Turismo: Recibe a decenas de millones de turistas cada año. 
+Geografía: Está asentada sobre tres islas: Manhattan, Staten Island y Long Island. 
