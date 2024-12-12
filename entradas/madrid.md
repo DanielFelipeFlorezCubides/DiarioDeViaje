@@ -5,3 +5,6 @@ Madrid es una ciudad cosmopolita, fiel a sus costumbres, cultura y a su arte, pe
 
 ## Recomendaciones
 Puedes reservar un tour cultural que te permita acceder al Palacio Real de Madrid.
+
+## Foto
+![](https://www.civitatis.com/f/pseo/espana/madrid/gran-via-noche-madrid-1200.jpg)
