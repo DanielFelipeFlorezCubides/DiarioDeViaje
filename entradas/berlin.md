@@ -7,3 +7,6 @@ La ciudad de Berlín está situada en el noroeste de Alemania, a orillas de los 
 Berlín tiene unos 175 museos y cientos de galerías de arte, entre los que se encuentran tesoros artísticos de todo el mundo. 
 
 Berlín tiene una gran variedad de mercados, como mercados semanales, mercadillos de pulgas, mercados ecológicos, mercados veganos, mercadillos de Navidad y mercados de barrio
+
+## Foto
+![](https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2023/03/30/16801645455376.jpg)
