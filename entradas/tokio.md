@@ -11,3 +11,6 @@ Shinjuku es un distrito comercial con rascacielos y callejuelas con bares.
 
 ## Foto
 ![](https://queverentusviajes.com/wp-content/uploads/2017/03/Que-hacer-en-Tokio-en-un-primer-viaje-a-Japon.jpg)
+
+## Información sobre Tokio
+Tokio es un centro cultural con museos, teatros, y establecimientos comerciales y de entretenimiento. Ofrece una gastronomía de primera clase. Tiene eclécticos centros comerciales y boutiques. En las afueras de Tokio se pueden disfrutar de paisajes otoñales, donde las hojas cambian de color. También se pueden visitar las islas Izu, que son populares entre los turistas que practican la pesca y los deportes marinos.
