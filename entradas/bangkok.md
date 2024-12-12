@@ -11,3 +11,6 @@ Wat Pho: El templo más grande de la ciudad, donde se encuentra el Buda Reclinad
 Wat Arun: El templo del amanecer, conocido por su pagoda de porcelana china 
 
 Wat Phra Kaew: El templo donde se encuentra el famoso Buda de jade verde y oro 
+
+## Foto
+![](https://img.static-kl.com/images/media/8173BB23-9039-4BE8-9F7280FC4900F047?w=960)
