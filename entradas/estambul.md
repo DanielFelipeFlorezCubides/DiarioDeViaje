@@ -5,3 +5,6 @@ Es una ciudad transcontinental, ubicada en el estrecho del Bósforo, que separa 
 
 ## Recomendaciones
 Visita lugares como la Mezquita Azul, la Basílica de Santa Sofía, el Palacio de Topkapi, la Cisterna Basílica, la plaza Taksim, y el Gran Bazar.
+
+## Foto
+![](https://imagenes.eltiempo.com/files/image_1200_535/uploads/2018/10/25/5bd219daf182b.jpeg)
